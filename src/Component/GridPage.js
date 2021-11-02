@@ -3,12 +3,12 @@ import React from 'react'
 import image from '../assets/img/image1.jpg'
 import image1 from '../assets/img/image2.jpg'
 import image2 from '../assets/img/image3.jpg'
-import image3 from '../assets/img/_MG_7543.jpg'
-import image4 from '../assets/img/_MG_7560.jpg'
-import image5 from '../assets/img/_MG_7585.jpg'
-import image6 from '../assets/img/_MG_7586.jpg'
-import image7 from '../assets/img/_MG_7619.jpg'
-import image8 from '../assets/img/_MG_7635a.jpg'
+import image3 from '../assets/img/image1.jpg'
+import image4 from '../assets/img/image1.jpg'
+import image5 from '../assets/img/image1.jpg'
+import image6 from '../assets/img/image1.jpg'
+import image7 from '../assets/img/image1.jpg'
+import image8 from '../assets/img/image1.jpg'
 
 function GridPage(props) {
   return (
