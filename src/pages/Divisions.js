@@ -17,7 +17,7 @@ import {
 } from '@chakra-ui/core'
 import { Layout } from '../Component/Layout'
 import styles from './resources.module.css'
-import img from '../assets/_MG_7809.jpg'
+// import img from '../assets/img/image1.jpg'
 import axios from 'axios'
 
 function Divisions(props) {
