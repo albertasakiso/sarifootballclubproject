@@ -16,7 +16,7 @@ import { motion } from 'framer-motion'
 
 import { Link } from 'react-router-dom'
 import image2 from '../assets/circle.jpg'
-import divisionImg from '../assets/_MG_7809.JPG'
+import divisionImg from '../assets/_MG_7809.jpg'
 import icon2 from '../assets/circle.jpg'
 import CountUp from 'react-countup'
 import VisibilitySensor from 'react-visibility-sensor'
