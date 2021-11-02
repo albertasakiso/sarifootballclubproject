@@ -8,7 +8,7 @@ import image4 from '../assets/img/_MG_7560.jpg'
 import image5 from '../assets/img/_MG_7585.jpg'
 import image6 from '../assets/img/_MG_7586.jpg'
 import image7 from '../assets/img/_MG_7619.jpg'
-import image8 from '../assets/img/_MG_7635.jpg'
+import image8 from '../assets/img/_MG_7635a.jpg'
 
 function GridPage(props) {
   return (
