@@ -42,8 +42,7 @@ const organizationalTenets = [
 const content = [
   {
     title: 'Sari FC vs Kasalgu Arrow Heads - Utrecht Academy Park',
-    description:
-      'FT fillinf this later............................. .............................................................',
+    description: '',
     button: 'View More',
     path: '/FinishedProjects',
     image: teamphoto1,
@@ -52,8 +51,7 @@ const content = [
   },
   {
     title: 'Sari FC vs Kasalgu Arrow Heads - Utrecht Academy Park',
-    description:
-      'fill later...........................................................................................................',
+    description: '',
     image: squadphotovsarrowheads,
     path: '/FinishedProjects',
     user: 'Luan Gjokaj',
@@ -62,7 +60,7 @@ const content = [
   {
     title: 'Sector Apiligu - Half-Time',
     description:
-      'Sector Apiligu listening keenly to the team talk from the manager ',
+      'Sector Apiligu listening keenly to the team talk from the Manager ',
     button: 'View More',
     image: sectorhalftime,
     path: '/FinishedProjects',
@@ -82,7 +80,7 @@ const content = [
 
   {
     title: 'Sari FC vs Kasalgu Arrow Heads - Utrecht Academy Park',
-    description: 'Coach Ambassador in full tactics layout to the boys',
+    description: 'Coach Ambassador in full tactics layout to the boys dur',
     button: 'View more',
     path: '/FinishedProjects',
     image: ambassadorcoach,

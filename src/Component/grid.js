@@ -8,7 +8,7 @@
     <Image
       borderRadius='md'
       rounded='10px'
-      src={image2}
+      src={image7}
       width='100%'
       height='130%'
       objectFit='cover'
@@ -26,7 +26,7 @@
         <Image
           borderRadius='md'
           rounded='10px'
-          src={image5}
+          src={image6}
           width='100%'
           height='130%'
           objectFit='cover'
@@ -37,7 +37,7 @@
         <Image
           borderRadius='md'
           rounded='10px'
-          src={image3}
+          src={image4}
           width='100%'
           height='130%'
           objectFit='cover'
@@ -57,7 +57,7 @@
         <Image
           borderRadius='md'
           rounded='10px'
-          src={image10}
+          src={image5}
           width='100%'
           height='130%'
           objectFit='cover'
@@ -68,7 +68,7 @@
         <Image
           borderRadius='md'
           rounded='10px'
-          src={image12}
+          src={image8}
           width='100%'
           height='130%'
           objectFit='cover'
