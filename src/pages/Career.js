@@ -12,7 +12,7 @@ import {
   AccordionPanel,
   AccordionIcon,
 } from '@chakra-ui/core'
-import image from '../assets/pro2.jpg'
+import image from '../assets/media0.png'
 import { careerDivsion } from '../lib/utils/mock'
 
 function Career(props) {
@@ -63,7 +63,7 @@ function Career(props) {
           padding={['10px', '30px']}
           fontWeight='500'
         >
-          Careers with Sari Football Club
+          Careers at Sari Football Club
           <Text borderBottom='3px solid gold' width={['20%', '10%']}></Text>
         </Text>
         <Text
@@ -71,15 +71,10 @@ function Career(props) {
           px={['0', '4']}
           lineHeight={['tall', 'taller']}
         >
-          We're a startup who want to do applications that serve the general
-          public. This job would be for someone who has the time to work on
-          these applications, get a stable income and when things go well, get a
-          bonus. As time goes on, general service conditions should improve.
+          Below are some career Opportunities for people looking to work with us
           <br></br> <br></br>
-          We're a startup who want to do applications that serve the general
-          public. This job would be for someone who has the time to work on
-          these applications, get a stable income and when things go well, get a
-          bonus. As time goes on, general service conditions should improve.
+          Find the details below showing the positions and duties assigned to
+          these positions
         </Text>
 
         {careerDivsion.map((data, id) => {

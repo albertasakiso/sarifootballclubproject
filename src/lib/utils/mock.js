@@ -378,30 +378,70 @@ const news = [
   },
 ]
 
+// CAREERS ROLES DEFINITION SPACE IN CAREER SECTION IN MOCK JS FILE
+
 const careerDivsion = [
   {
     id: 1,
-    division: 'MIS',
+    division: 'Head Coach',
     career:
-      'Lorem ipsum dolor sit ame consectetur adipiscing elit. Aenean tempor ornare ipsum, sit ametaliquam... Lorem ipsum dolor sit ame consectetur adipiscing elit. Aenean tempor ornare ipsum, sit ametaliquam Lorem ipsum dolor sit ame consectetur adipiscing elit. Aenean tempor ornare ipsum, sit ametaliquam...Lorem ipsum dolor sit ame consectetur adipiscing elit. Aenean tempor ornare ipsum, sit ametaliquam...  ',
+      'Primary duties: A soccer coach is responsible for coaching and mentoring soccer players. Coaches guide players through drills, practices and games and act as spokespeople for a team. They can also help schedule games and practices for a team. Most importantly, coaches keep players accountable for on-field performance.  ',
   },
   {
     id: 2,
-    division: 'Bridges',
+    division: 'Team Manager',
     career:
-      'Lorem ipsum dolor sit ame consectetur adipiscing elit. Aenean tempor ornare ipsum, sit ametaliquam... Lorem ipsum dolor sit ame consectetur adipiscing elit. Aenean tempor ornare ipsum, sit ametaliquam Lorem ipsum dolor sit ame consectetur adipiscing elit. Aenean tempor ornare ipsum, sit ametaliquam...Lorem ipsum dolor sit ame consectetur adipiscing elit. Aenean tempor ornare ipsum, sit ametaliquam...  ',
+      'Primary duties: A soccer manager works closely with the social media and marketing team for a team or organization to attract new players, handle interviews and schedule games and events. A manager should also have a strong understanding of the sport and its rules.',
   },
   {
     id: 3,
-    division: 'Contract',
+    division: 'Assistant Coach',
     career:
-      'Lorem ipsum dolor sit ame consectetur adipiscing elit. Aenean tempor ornare ipsum, sit ametaliquam... Lorem ipsum dolor sit ame consectetur adipiscing elit. Aenean tempor ornare ipsum, sit ametaliquam Lorem ipsum dolor sit ame consectetur adipiscing elit. Aenean tempor ornare ipsum, sit ametaliquam...Lorem ipsum dolor sit ame consectetur adipiscing elit. Aenean tempor ornare ipsum, sit ametaliquam...  ',
+      'Primary duties: An assistant coach helps a head coach manage a team, encourages players, creates plays and generally leads a team in their on- and off-field duties. Assistant coaches also help with planning and speaking on behalf of the team to the media. An assistant coach may work with one or more other assistant coaches, depending on the level of play at which they are coaching.  ',
   },
   {
     id: 4,
-    division: 'Safety',
+    division: 'U-13 Coach',
     career:
-      'Lorem ipsum dolor sit ame consectetur adipiscing elit. Aenean tempor ornare ipsum, sit ametaliquam... Lorem ipsum dolor sit ame consectetur adipiscing elit. Aenean tempor ornare ipsum, sit ametaliquam Lorem ipsum dolor sit ame consectetur adipiscing elit. Aenean tempor ornare ipsum, sit ametaliquam...Lorem ipsum dolor sit ame consectetur adipiscing elit. Aenean tempor ornare ipsum, sit ametaliquam...  ',
+      'Primary duties: A U-13 coach is responsible for coaching and mentoring U13 players. Coaches guide players through drills, practices and games and act as spokespeople for a team. They can also help schedule games and practices for a team. Most importantly, coaches keep players accountable for on-field performance.  ',
+  },
+  {
+    id: 5,
+    division: 'U-13 Assistant Coach',
+    career:
+      'Primary duties: An U-13 assistant coach helps a U-13 head coach manages the U13 team, encourages players, creates plays and generally leads a team in their on- and off-field duties. Assistant coaches also help with planning and speaking on behalf of the team to the media. An assistant coach may work with one or more other assistant coaches, depending on the level of play at which they are coaching.  ',
+  },
+  {
+    id: 6,
+    division: 'Sports Editor',
+    career:
+      'Primary duties: A sports editor proofreads and edits sports articles for newspapers, magazines or other publications. An editor assists writers and other editors in reaching deadlines and ensuring the accuracy of written material. They are also typically responsible for addressing articles that included mistakes that require clarification or any necessary updates to a story.',
+  },
+  {
+    id: 7,
+    division: 'Sports Writer',
+    career:
+      'Primary duties: A sports writer creates reports on soccer and other sports for newspapers, magazines, websites or other publications. Employers expect sports writers to commit to deadlines, conduct research and report to an editor. Sports writers also maintain a high level of accuracy and professional conduct in their writing.',
+  },
+  {
+    id: 8,
+    division: 'General Secretary',
+    career: 'General secretay duties  ',
+  },
+  {
+    id: 9,
+    division: 'Kit Manager',
+    career: 'Coming soon... ',
+  },
+  {
+    id: 10,
+    division: 'Team Doctor',
+    career: 'Coming soon... ',
+  },
+  {
+    id: 11,
+    division: 'Director of Football',
+    career: 'Coming soon... ',
   },
 ]
 

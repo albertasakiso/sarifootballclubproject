@@ -55,7 +55,7 @@ function ProcurementAndStrategicPlan(props) {
                 />
                 <Text ml='2'>Phone Us</Text>
               </Flex>
-              <Text fontWeight='800'>0246904618</Text>
+              <Text fontWeight='800'>0245258551</Text>
             </Flex>
             <Flex justify='space-between' align='center'>
               <Flex align='center'>

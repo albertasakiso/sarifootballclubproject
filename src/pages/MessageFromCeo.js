@@ -107,10 +107,31 @@ function MessageFromCeo(props) {
                 an extent that they get value for money for deciding to sponsor
                 us.
                 <br></br>
-                Breakdown Owner: Godwin A. Apullah Chairman: Alhassan Beyom Vice
-                Chairman: Victor Kanbe Medical Support: Achiru Awudu(Nurse)
-                Coach: Godwin A. Apullah Assistant Coach: Abdulai Kit Manager:
-                Habib Bashiru Director of Communications: Apiligu Asakiso
+                <Text fontWeight='800'>Breakdown</Text>
+                <hr />
+                <br></br>
+                Owner<Text fontWeight='800'>Godwin A. Apullah</Text>
+                <br></br>
+                Chairman
+                <Text fontWeight='800'>Alhassan Beyom</Text>
+                <br></br>
+                Vice Chairman
+                <Text fontWeight='800'>Victor Kanbe</Text>
+                <br></br>
+                Medical Support
+                <Text fontWeight='800'>Achiru Awudu</Text>
+                <br></br>
+                Head Coach
+                <Text fontWeight='800'>Godwin A. Apullah</Text>
+                <br></br>
+                Assistant Coach
+                <Text fontWeight='800'>Abdulai</Text>
+                <br></br>
+                Kit Manager
+                <Text fontWeight='800'>Habib Bashiru</Text>
+                <br></br>
+                Director of Communications
+                <Text fontWeight='800'>Apiligu Asakiso</Text>
               </Text>
               <Button
                 variant='link'

@@ -52,14 +52,14 @@ function CorporateProfile(props) {
                   exponentially and propel the accelerated growth of sports in
                   the District as well as Ghana.
                   <br></br>
-                  <br></br>
+                  {/* <br></br>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   Doloremque deserunt blanditiis dicta itaque dolorem! Dolores
                   eligendi ipsum delectus provident quibusdam nesciunt
                   doloremque, placeat possimus, velit optio voluptate soluta
                   vitae officia?
                   <br></br>
-                  Lorem ipsum dolor sit amet.
+                  Lorem ipsum dolor sit amet. */}
                 </Text>
                 <Button
                   variant='link'
@@ -100,8 +100,8 @@ function CorporateProfile(props) {
                   exponentially and propel the accelerated growth of sports in
                   the District as well as Ghana.
                   <br></br>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Itaque, voluptatem!
+                  {/* Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                  Itaque, voluptatem! */}
                 </Text>
                 <Button
                   variant='link'

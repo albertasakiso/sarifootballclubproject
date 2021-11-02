@@ -10,7 +10,7 @@ import image8 from '../assets/download-8.jpg'
 import image12 from '../assets/download-12.jpg'
 import image10 from '../assets/download-10.jpg'
 import image11 from '../assets/download-4.jpg'
-import image16 from '../assets/media.png'
+import image16 from '../assets/media0.png'
 
 function MediaHeader(props) {
   return (
